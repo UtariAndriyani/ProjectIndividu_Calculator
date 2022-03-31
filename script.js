@@ -8,7 +8,7 @@ function calculator() {
         outputscreen.value = eval(outputscreen.value);
     }
     catch(error) {
-        alert("Invalid. Masukkan angka yang benar!")
+        alert("Angka yang anda masukkan salah!")
     }
 }
 
